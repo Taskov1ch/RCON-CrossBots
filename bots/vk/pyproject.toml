@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "rcon-crossbots-vk"
+version = "0.7-beta"
+description = "ВК бот для RCON-CrossBots"
+authors = ["Taskovich"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+vkbottle = "4.3.12"
+python-dotenv = "1.0.1"
+pyyaml = "6.0.1"
+mcrcon = "0.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
