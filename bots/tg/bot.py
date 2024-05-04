@@ -2,8 +2,8 @@ import argparse
 import os
 import sys
 
-parser = argparse.ArgumentParser(description = "Для получения рабочего каталога")
-parser.add_argument("main_path", type = str, help = "Рабочий каталог")
+parser = argparse.ArgumentParser(description = "To get the working directory")
+parser.add_argument("main_path", type = str, help = "Working directory")
 args = parser.parse_args()
 sys.path.append(args.main_path)
 os.chdir(args.main_path)
@@ -16,7 +16,7 @@ import asyncio
 import os
 
 async def on_startup(bot: Bot) -> None:
-	logger.info("ТГ бот работает")
+	logger.info("Telegram bot is working")
 
 load_dotenv()
 bot = Bot(token = os.getenv("TG_TOKEN"))
