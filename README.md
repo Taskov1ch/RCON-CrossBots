@@ -1,10 +1,14 @@
 <div align = "center">
 <img src = "dont_touch_me/title.png" alt = "Title">
 
-
 <b>🤖 RCON чат-боты на нескольких платформах сразу 💬</b>
-</div>
 
+![GitHub License](https://img.shields.io/github/license/Taskov1ch/Rcon-crossbots?style=for-the-badge&labelColor=%23000&color=red)
+
+![VK](https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-4C75A3?style=for-the-badge&logo=vk&logoColor=%23fff) ![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=%23fff
+) ![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=%23fff)
+
+</div>
 ___
 
 ## 📝 Описание
