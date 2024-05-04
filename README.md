@@ -1,7 +1,7 @@
 <div align="center">
 <img src="dont_touch_me/title.png" alt="Title">
 
-<b>🤖 RCON Chat Bots on Multiple Platforms Simultaneously 💬</b>
+<b>🤖 RCON chatbots on several platforms at once. 💬</b>
 
 ![GitHub License](https://img.shields.io/github/license/Taskov1ch/Rcon-crossbots?style=for-the-badge&labelColor=%23000&color=red)
 
