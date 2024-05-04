@@ -1,6 +1,5 @@
 <div align = "center">
-<img src = "dont_touch_me/title.png" width = "5
-0%" alt = "Title">
+<img src = "dont_touch_me/title.png" alt = "Title">
 
 
 <b>🤖 RCON чат-боты на нескольких платформах сразу 💬</b>
