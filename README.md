@@ -1,41 +1,40 @@
-<div align = "center">
-<img src = "dont_touch_me/title.png" alt = "Title">
+<div align="center">
+<img src="dont_touch_me/title.png" alt="Title">
 
-<b>🤖 RCON чат-боты на нескольких платформах сразу 💬</b>
+<b>🤖 RCON Chat Bots on Multiple Platforms Simultaneously 💬</b>
 
 ![GitHub License](https://img.shields.io/github/license/Taskov1ch/Rcon-crossbots?style=for-the-badge&labelColor=%23000&color=red)
 
-![VK](https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-4C75A3?style=for-the-badge&logo=vk&logoColor=%23fff) ![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=%23fff
-) ![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=%23fff) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=%23fff) ![Poetry](https://img.shields.io/badge/Poetry-blue?style=for-the-badge&logo=poetry&logoColor=%23fff)
+![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=%23fff) ![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=%23fff) ![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=%23fff) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=%23fff) ![Poetry](https://img.shields.io/badge/Poetry-blue?style=for-the-badge&logo=poetry&logoColor=%23fff)
 
 </div>
 
 ___
 
-## 📝 Описание
-Данные чат-боты будут работать на разных платформах но с одним единственным сервером MCPE/BE по протоколу **RCON**.
+## 📝 Description
+These chat bots will operate on different platforms but with a single MCPE/BE server using the **RCON** protocol.
 
-## 🤝 Поддерживаемые платформы
-|Платформа|Работоспособность|Стабильность|
+## 🤝 Supported Platforms
+|Platform|Functionality|Stability|
 |:-:|:-:|:-:|
-|ВКонтакте|✅|✅|
+|VK|✅|✅|
 |Telegram|✅|✅|
 |Discord|✅|❌|
 
-## ⚠️ Предупреждение
-*Данное ПО находится на стадии тестирования и может работать некорректно в некоторых местах и на некоторых устройствах! При обнаружении бага или недоработки, сообщите в **[ISSUES](https://github.com/Taskov1ch/rcon-crossbots/issues)**. Спасибо за понимание!*
+## ⚠️ Warning
+*This software is in the testing phase and may not work correctly in some areas and on some devices! If you find a bug or deficiency, please report it in **[ISSUES](https://github.com/Taskov1ch/rcon-crossbots/issues)**. Thank you for your understanding!*
 
-## 🗓️ Планы
-- [ ] Добавить [**WhatsApp**](https://www.whatsapp.com).
-- [ ] Дать **Discord** боту писать обходя ограничения.
-- [ ] Улучшить код.
+## 🗓️ Plans
+- [ ] Add [**WhatsApp**](https://www.whatsapp.com).
+- [ ] Allow the **Discord** bot to write bypassing restrictions.
+- [ ] Improve the code.
 
-## 🔗 Полезные ссылки
-* [Установка бота](dont_touch_me/how_to_install.md)
-* [Скриншоты ботов](https://files.fm/Tynaev/u/3j4wtdcpef)
-* [Скачать Python](https://python.org/downloads)
-* [Как создать бота для ВКонтакте?](https://google.com)
-* [Как создать бота для Telegram?](https://google.com)
-* [Как создать бота для Discord?](https://google.com)
-* [Discord Applications (для Discord бота)](https://discord.com/developers/applications)
-* [BotFather (для Telegram бота)](https://t.me/botfather)
+## 🔗 Useful Links
+* [Bot Installation](dont_touch_me/how_to_install.md)
+* [Bot Screenshots](https://files.fm/Tynaev/u/3j4wtdcpef)
+* [Download Python](https://python.org/downloads)
+* [How to Create a VK Bot?](https://google.com)
+* [How to Create a Telegram Bot?](https://google.com)
+* [How to Create a Discord Bot?](https://google.com)
+* [Discord Applications (for Discord bot)](https://discord.com/developers/applications)
+* [BotFather (for Telegram bot)](https://t.me/botfather)
