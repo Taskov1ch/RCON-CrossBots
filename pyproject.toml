@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "rcon-crossbots"
 version = "0.7-beta"
-description = "RCON чат-бот для нескольких платформ сразу."
+description = "RCON чат-боты на нескольких платформах сразу."
 authors = ["Taskovich"]
 license = "MIT"
 package-mode = false
