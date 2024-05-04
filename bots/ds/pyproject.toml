@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "rcon-crossbots-ds"
 version = "0.7-beta"
-description = "ДС бот для RCON-CrossBots"
+description = "Discord bot for RCON-CrossBots"
 authors = ["Taskovich"]
 package-mode = false
 
