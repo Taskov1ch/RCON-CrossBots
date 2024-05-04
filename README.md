@@ -30,8 +30,8 @@ These chat bots will operate on different platforms but with a single MCPE/BE se
 - [ ] Improve the code.
 
 ## 🔗 Useful Links
-* [Bot Installation](dont_touch_me/how_to_install.md)
-* [Bot Screenshots](https://files.fm/Tynaev/u/3j4wtdcpef)
+* [Installation](dont_touch_me/how_to_install.md)
+* [Bots Screenshots](https://files.fm/Tynaev/u/3j4wtdcpef)
 * [Download Python](https://python.org/downloads)
 * [How to Create a VK Bot?](https://google.com)
 * [How to Create a Telegram Bot?](https://google.com)
