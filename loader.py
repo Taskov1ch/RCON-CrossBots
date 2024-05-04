@@ -12,7 +12,7 @@ paths = [
 ]
 processes = []
 
-def start() -> None: # Как нибудь сделаю запуск ботов эффективнее... А щяс пока что так
+def start() -> None: # Somehow I’ll make the launch of bots more efficient... But right now it’s like this
 	try:
 		for path in paths:
 			logger.info(f"Проверка и установка зависимостей \"{path}\"...")
