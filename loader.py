@@ -15,7 +15,7 @@ processes = []
 def start() -> None: # Somehow I’ll make the launch of bots more efficient... But right now it’s like this
 	try:
 		for path in paths:
-			logger.info(f"Проверка и установка зависимостей \"{path}\"...")
+			logger.info(f"Checking and installing dependencies \"{path}\"...")
 			subprocess.call(f"cd {path} && poetry install", shell = True)
 			processes.append(subprocess.Popen(f"cd {path} && poetry run python bot.py {main_path}", shell = True))
 
