@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "rcon-crossbots-tg"
 version = "0.7-beta"
-description = "ТГ бот для RCON-CrossBots"
+description = "Telegram bot for RCON-CrossBots"
 authors = ["Taskovich"]
 package-mode = false
 
