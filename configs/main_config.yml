@@ -12,24 +12,24 @@ blocked_commands: # List of prohibited commands
 
 messages: # Below is the message setting
   blocked_command: |- # Message when trying to execute a blocked command
-    🚫 Данная команда заблокирована!
+    🚫 This command is blocked!
 
   not_permission: |- # If the sender is not on the approved list
-    ❌ У вас нет доступа :(
-    🤔 Может попробуете добавить свой ID в список разрешенных?
-    ℹ Ваш ID: {id}
+    ❌ You don't have access :(
+    🤔 Maybe try adding your ID to the allowed list?
+    ℹ Your ID: {id}
 
   sending: |- # Message that the command is being sent to the server
-    📤 Выполнение...
+    📤 Performance...
 
   error: |- # If an error occurs while executing a command
-    💔 Во время выполнения команды произошла ошибка...
-    📩 Ошибка: {error}
+    💔 An error occurred while executing the command...
+    📩 Error: {error}
 
   answer: |- # Message when the command is executed successfully
-    📥 Команда выполнена!
-    🔃 Время выполнения: {ping}s.
-    📩 Ответ:
+    📥 Command executed!
+    🔃 Lead time: {ping}s.
+    📩 Answer:
     {answer}
 
   none_type: |- # The word that will be used if the command was executed, but the server returned an empty response
