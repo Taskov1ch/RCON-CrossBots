@@ -1,16 +1,16 @@
-# Будет ли работать бот на данной платформе?
+# Will the bot work on this platform?
 enabled: True
 
-# С какой ролью будет доступна RCON (не забудьте создать такую роль на сервере ДС)
+# What role will RCON be available with (don’t forget to create such a role on the Discord server)
 role: "RCON"
 
-# На каких каналах будет работать бот ("*", значит во всех)
+# Which channels will the bot work on ("*" means all)
 channels:
   # - "*"
   - "rcon"
   - "наш-ркон"
 
-# (токен указывается в .env)
+# (the token is specified in .env)
 
-# Префикс для выполнения команды
+# Prefix for command execution
 prefix: "//"
