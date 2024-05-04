@@ -15,8 +15,7 @@
 `VK_TOKEN` с токеном вашего сообщества (бота) из **ВКонтакте**,
 `TG_TOKEN` с токеном вашего бота из **Telegram** ([**@BotFather**](https://t.me/botfather)),
 `DS_TOKEN` с токеном вашего бота из **Discord** ([**Discord Applications**](https://discord.com/developers/applications)),
-`RCON_PASS` с RCON паролем вашего сервера.
-*(пример вы можете увидеть [здесь](env_example.md))*
+`RCON_PASS` с RCON паролем вашего сервера. Пример файла вы можете увидеть [здесь](env_example.md).
 
 4. Настройте все конфигурационные файлы в каталоге [**configs**](../configs).
 
