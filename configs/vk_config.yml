@@ -1,11 +1,11 @@
-# Будет ли работать бот на данной платформе?
+# Will the bot work on this platform?
 enabled: True
 
-allowed_ids: # Список разрешенных пользователей или сообществ (их ID)
+allowed_ids: # List of allowed users or communities (their IDs)
   - 614763437
   - -224130500
 
-# (токен указывается в .env)
+# (the token is specified in .env)
 
-# Префикс для выполнения команды
+# Prefix for command execution
 prefix: "/"
