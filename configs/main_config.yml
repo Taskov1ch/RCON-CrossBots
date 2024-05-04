@@ -1,37 +1,36 @@
-# Адрес сервера
+# Server address
 host: 127.0.0.1
 
-# Порт сервера
+# Server port
 port: 19132
 
-# (пароль указывается в .env)
+# (The password for RCON is specified in .env)
 
-blocked_commands: # Список запрещенных команд
+blocked_commands: # List of prohibited commands
   - "stop"
   - "restart"
 
-messages: # Ниже настройка сообщений
-
-  blocked_command: |- # Сообщение при попытке выполнении заблокированной команды
+messages: # Below is the message setting
+  blocked_command: |- # Message when trying to execute a blocked command
     🚫 Данная команда заблокирована!
 
-  not_permission: |- # Если отправитель не в списке разрешенных
+  not_permission: |- # If the sender is not on the approved list
     ❌ У вас нет доступа :(
     🤔 Может попробуете добавить свой ID в список разрешенных?
     ℹ Ваш ID: {id}
 
-  sending: |- # Сообщение о том, что команда отправляется на сервер
+  sending: |- # Message that the command is being sent to the server
     📤 Выполнение...
 
-  error: |- # Если произошла ошибка во время выполнения команды
+  error: |- # If an error occurs while executing a command
     💔 Во время выполнения команды произошла ошибка...
     📩 Ошибка: {error}
 
-  answer: |- # Сообщение при успешном выполнении команды
+  answer: |- # Message when the command is executed successfully
     📥 Команда выполнена!
     🔃 Время выполнения: {ping}s.
     📩 Ответ:
     {answer}
 
-  none_type: |- # Слово которое будет использоваться если команда выполнена, но сервер вернул пустой ответ
+  none_type: |- # The word that will be used if the command was executed, but the server returned an empty response
     ...
