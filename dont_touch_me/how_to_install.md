@@ -15,7 +15,9 @@ If everything is ready, you can proceed with the installation.
    - `VK_TOKEN` with the token of your community (bot) from **VKontakte**,
    - `TG_TOKEN` with the token of your bot from **Telegram** ([**@BotFather**](https://t.me/botfather)),
    - `DS_TOKEN` with the token of your bot from **Discord** ([**Discord Applications**](https://discord.com/developers/applications)),
-   - `RCON_PASS` with the RCON password of your server. You can see an example file [here](env_example.md).
+   - `RCON_PASS` with the RCON password of your server.
+
+    You can see an example file [here](env_example.md).
 
 4. Configure all the configuration files in the [**configs**](../configs) directory.
 
